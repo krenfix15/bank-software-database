@@ -1,5 +1,5 @@
 # bank-software-database
-This is an app that simulates a Bank Software with user interface to add clients, store and update their data in an Oracle Database.
+This is an app that simulates a Bank Software with user interface to add clients, store, search and update their data in an Oracle Database.
 A demo image can be found in the repository.
 
 # To open the application:
