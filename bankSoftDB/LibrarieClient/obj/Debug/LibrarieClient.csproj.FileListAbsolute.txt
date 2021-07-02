@@ -1,0 +1,12 @@
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\bin\Debug\LibrarieClient.dll
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\bin\Debug\LibrarieClient.pdb
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.csprojAssemblyReference.cache
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.csproj.CoreCompileInputs.cache
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.dll
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.pdb
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\bin\Debug\LibrarieClient.dll
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\bin\Debug\LibrarieClient.pdb
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.csprojAssemblyReference.cache
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.csproj.CoreCompileInputs.cache
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.dll
+C:\Users\pasca\Downloads\bank-software-ui-master\bank-software-ui-master\bank-software-ui-master\LibrarieClient\obj\Debug\LibrarieClient.pdb
